@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Beat_Box:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Beat_Box_jar</output-path>
+    <root id="archive" name="Beat_Box.jar">
+      <element id="module-output" name="Beat_Box" />
+    </root>
+  </artifact>
+</component>
